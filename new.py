@@ -1,4 +1,4 @@
-# Dictionary:
+# Dictionary for people's names:
 person = {"name": "Alice", "age": 30}
 
 # Slicing:
