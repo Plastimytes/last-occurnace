@@ -1,5 +1,5 @@
 # Dictionary for people's names:
-person = {"name": "Alice", "age": 30}
+person = {"name": "Alice", "age": 30, "sex": F}
 
 # Slicing:
 my_list = [1, 2, 3, 4, 5]
